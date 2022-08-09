@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @celeron3433
-- 👀 I’m interested in #C
-- 🌱 I’m currently learning #C
-- 💞️ I’m looking to collaborate on #C
+- 👀 I’m interested in #C && HTML && CSS %% JS
+- 🌱 I’m currently learning #C && HTML && CSS %% JS
+- 💞️ I’m looking to collaborate on #C && HTML && CSS %% JS
 - 📫 How to reach me celeron3433@gmail.com
 
 <!---
